@@ -1,4 +1,4 @@
-<title>Roy Aether Server</title>
+# Roy Aether Server
 <meta charset=utf8>
 <link rel="shortcut icon" href="/roycai.ico" type="image/x-icon">
 <h1>欢迎来到Roy Aether Server天启之境服务器 下载站与介绍</h1>
